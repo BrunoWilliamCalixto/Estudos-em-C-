@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.exe
+C:\Users\nobru\Pictures\ProjetosC#\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.pdb
+C:\Users\nobru\Pictures\ProjetosC#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.exe
+C:\Users\nobru\Pictures\ProjetosC#\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.pdb

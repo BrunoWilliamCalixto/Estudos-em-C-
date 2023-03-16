@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\SobreFuncoes\SobreFuncoes\bin\Debug\SobreFuncoes.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\SobreFuncoes\SobreFuncoes\bin\Debug\SobreFuncoes.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreFuncoes\SobreFuncoes\bin\Debug\SobreFuncoes.pdb
+C:\Users\nobru\Pictures\ProjetosC#\SobreFuncoes\SobreFuncoes\obj\Debug\SobreFuncoes.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreFuncoes\SobreFuncoes\obj\Debug\SobreFuncoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreFuncoes\SobreFuncoes\obj\Debug\SobreFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreFuncoes\SobreFuncoes\obj\Debug\SobreFuncoes.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreFuncoes\SobreFuncoes\obj\Debug\SobreFuncoes.pdb

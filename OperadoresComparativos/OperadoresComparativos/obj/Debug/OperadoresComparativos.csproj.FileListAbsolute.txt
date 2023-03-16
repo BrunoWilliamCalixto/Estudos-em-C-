@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\OperadoresComparativos.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\OperadoresComparativos.exe
+C:\Users\nobru\Pictures\ProjetosC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\OperadoresComparativos.pdb
+C:\Users\nobru\Pictures\ProjetosC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\OperadoresComparativos.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\OperadoresComparativos.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\OperadoresComparativos.exe
+C:\Users\nobru\Pictures\ProjetosC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\OperadoresComparativos.pdb
