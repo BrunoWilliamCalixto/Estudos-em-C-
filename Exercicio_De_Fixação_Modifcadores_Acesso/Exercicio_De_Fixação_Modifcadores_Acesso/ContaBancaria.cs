@@ -11,7 +11,7 @@ namespace Exercicio_De_Fixação_Modifcadores_Acesso
 	{
 		private string _nome;
 		public int NumeroConta { get; private set; }
-		public double ValorContaBancaria { get; private set; }
+		public double Saldo { get; private set; }
 
 
 		public ContaBancaria()
@@ -24,9 +24,9 @@ namespace Exercicio_De_Fixação_Modifcadores_Acesso
 			NumeroConta = numeroConta;
 		}
 
-		public ContaBancaria(string nome, int numeroConta, double valorInicial) : this(nome, numeroConta)
+		public ContaBancaria(string nome, int numeroConta, double depositoInicial) : this(nome, numeroConta)
 		{
-			ValorContaBancaria = valorInicial;
+			Depositar(depositoInicial);
 		}
 
 
@@ -43,22 +43,22 @@ namespace Exercicio_De_Fixação_Modifcadores_Acesso
 		}
 
 
-		public void Depositar(double saldo)
+		public void Depositar(double deposito)
 		{
-			ValorContaBancaria += saldo;
+			Saldo += deposito;
 		}
 
-		public void Sacar(double saldo)
+		public void Sacar(double saque)
 		{
 			double TAXA_SAQUE = 5.0;
-			ValorContaBancaria = (ValorContaBancaria - saldo) - TAXA_SAQUE;
+			Saldo = (Saldo - saque) - TAXA_SAQUE;
 		}
 
 		public override string ToString()
 		{
 			return "Conta: " + NumeroConta
 					+ " Titular: " + _nome
-					+ " Saldo: R$" + ValorContaBancaria.ToString("F2", CultureInfo.InvariantCulture);
+					+ " Saldo: R$" + Saldo.ToString("F2", CultureInfo.InvariantCulture);
 		}
 
 	}

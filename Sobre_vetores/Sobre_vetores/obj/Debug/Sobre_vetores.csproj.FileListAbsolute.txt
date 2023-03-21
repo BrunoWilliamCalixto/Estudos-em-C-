@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_vetores\Sobre_vetores\bin\Debug\Sobre_vetores.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_vetores\Sobre_vetores\bin\Debug\Sobre_vetores.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_vetores\Sobre_vetores\bin\Debug\Sobre_vetores.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_vetores\Sobre_vetores\obj\Debug\Sobre_vetores.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_vetores\Sobre_vetores\obj\Debug\Sobre_vetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_vetores\Sobre_vetores\obj\Debug\Sobre_vetores.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_vetores\Sobre_vetores\obj\Debug\Sobre_vetores.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_vetores\Sobre_vetores\obj\Debug\Sobre_vetores.pdb

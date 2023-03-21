@@ -35,11 +35,12 @@ namespace Exercicio_De_Fixação_Modifcadores_Acesso
 				{
 					Console.Write("Entre com o valor inicial: ");
 					valueInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+					conta = new ContaBancaria(name, numberAccount, valueInicial);
 				}
 
 				else if (depositInicial == 'n' || depositInicial == 'N')
 				{
-
+					conta = new ContaBancaria(name, numberAccount);
 				}
 				else
 				{
@@ -47,7 +48,7 @@ namespace Exercicio_De_Fixação_Modifcadores_Acesso
 					continue;
 				}
 
-				conta = new ContaBancaria(name, numberAccount, valueInicial);
+				
 				Console.WriteLine("------------------------------------------------------------------------");
 				Console.WriteLine("Dados da conta:");
                 Console.WriteLine(conta);
@@ -63,7 +64,7 @@ namespace Exercicio_De_Fixação_Modifcadores_Acesso
 				double valueSaque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 				conta.Sacar(valueSaque);
                 Console.WriteLine("------------------------------------------------------------------------");
-                Console.WriteLine("Dados da conta atualizado:");
+                Console.WriteLine("Dados da conta atualizados:");
 				Console.WriteLine(conta);
 
 				break;
