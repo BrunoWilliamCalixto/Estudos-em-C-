@@ -66,14 +66,6 @@ namespace Exercicio_De_Fixação_Modifcadores_Acesso
                 Console.WriteLine("Dados da conta atualizado:");
 				Console.WriteLine(conta);
 
-
-
-
-
-
-
-
-
 				break;
 			}
 
