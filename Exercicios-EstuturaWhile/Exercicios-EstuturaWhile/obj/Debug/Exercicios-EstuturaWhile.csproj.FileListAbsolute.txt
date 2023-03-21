@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios-EstuturaWhile\Exercicios-EstuturaWhile\bin\Debug\Exercicios-EstuturaWhile.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios-EstuturaWhile\Exercicios-EstuturaWhile\bin\Debug\Exercicios-EstuturaWhile.exe
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios-EstuturaWhile\Exercicios-EstuturaWhile\bin\Debug\Exercicios-EstuturaWhile.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios-EstuturaWhile\Exercicios-EstuturaWhile\obj\Debug\Exercicios-EstuturaWhile.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios-EstuturaWhile\Exercicios-EstuturaWhile\obj\Debug\Exercicios-EstuturaWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios-EstuturaWhile\Exercicios-EstuturaWhile\obj\Debug\Exercicios-EstuturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios-EstuturaWhile\Exercicios-EstuturaWhile\obj\Debug\Exercicios-EstuturaWhile.exe
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios-EstuturaWhile\Exercicios-EstuturaWhile\obj\Debug\Exercicios-EstuturaWhile.pdb

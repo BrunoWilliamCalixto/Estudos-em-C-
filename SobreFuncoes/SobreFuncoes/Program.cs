@@ -10,7 +10,9 @@ namespace SobreFuncoes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite 3 números em sequencia: ");
+
+
+            Console.WriteLine("Digite 3 números: ");
 
             int n1 = int.Parse(Console.ReadLine());
             int n2 = int.Parse(Console.ReadLine());
@@ -28,8 +30,8 @@ namespace SobreFuncoes
 
         private static int Maior(int n1, int n2, int n3)
         {
-            int resultado = 0;
 
+            int resultado = 0;
             if (n1 > n2 && n1 > n3)
             {
                 resultado = n1;

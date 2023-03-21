@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Properties\Sobre_Properties\bin\Debug\Sobre_Properties.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Properties\Sobre_Properties\bin\Debug\Sobre_Properties.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Properties\Sobre_Properties\bin\Debug\Sobre_Properties.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Properties\Sobre_Properties\obj\Debug\Sobre_Properties.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Properties\Sobre_Properties\obj\Debug\Sobre_Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Properties\Sobre_Properties\obj\Debug\Sobre_Properties.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Properties\Sobre_Properties\obj\Debug\Sobre_Properties.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Properties\Sobre_Properties\obj\Debug\Sobre_Properties.pdb

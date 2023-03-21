@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\SobreConstrutores\SobreConstrutores\bin\Debug\SobreConstrutores.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\SobreConstrutores\SobreConstrutores\bin\Debug\SobreConstrutores.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreConstrutores\SobreConstrutores\bin\Debug\SobreConstrutores.pdb
+C:\Users\nobru\Pictures\ProjetosC#\SobreConstrutores\SobreConstrutores\obj\Debug\SobreConstrutores.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreConstrutores\SobreConstrutores\obj\Debug\SobreConstrutores.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreConstrutores\SobreConstrutores\obj\Debug\SobreConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreConstrutores\SobreConstrutores\obj\Debug\SobreConstrutores.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreConstrutores\SobreConstrutores\obj\Debug\SobreConstrutores.pdb

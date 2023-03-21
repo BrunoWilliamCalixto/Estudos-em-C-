@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-FOR\EstruturaRepetitiva-FOR\bin\Debug\EstruturaRepetitiva-FOR.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-FOR\EstruturaRepetitiva-FOR\bin\Debug\EstruturaRepetitiva-FOR.exe
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-FOR\EstruturaRepetitiva-FOR\bin\Debug\EstruturaRepetitiva-FOR.pdb
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-FOR\EstruturaRepetitiva-FOR\obj\Debug\EstruturaRepetitiva-FOR.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-FOR\EstruturaRepetitiva-FOR\obj\Debug\EstruturaRepetitiva-FOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-FOR\EstruturaRepetitiva-FOR\obj\Debug\EstruturaRepetitiva-FOR.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-FOR\EstruturaRepetitiva-FOR\obj\Debug\EstruturaRepetitiva-FOR.exe
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-FOR\EstruturaRepetitiva-FOR\obj\Debug\EstruturaRepetitiva-FOR.pdb

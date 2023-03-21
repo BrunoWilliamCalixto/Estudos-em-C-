@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Classes\Sobre_Classes\bin\Debug\Sobre_Classes.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Classes\Sobre_Classes\bin\Debug\Sobre_Classes.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Classes\Sobre_Classes\bin\Debug\Sobre_Classes.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Classes\Sobre_Classes\obj\Debug\Sobre_Classes.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Classes\Sobre_Classes\obj\Debug\Sobre_Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Classes\Sobre_Classes\obj\Debug\Sobre_Classes.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Classes\Sobre_Classes\obj\Debug\Sobre_Classes.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Classes\Sobre_Classes\obj\Debug\Sobre_Classes.pdb

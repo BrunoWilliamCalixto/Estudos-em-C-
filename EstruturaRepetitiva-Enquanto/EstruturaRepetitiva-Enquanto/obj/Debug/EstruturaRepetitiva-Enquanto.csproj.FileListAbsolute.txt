@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-Enquanto\EstruturaRepetitiva-Enquanto\bin\Debug\EstruturaRepetitiva-Enquanto.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-Enquanto\EstruturaRepetitiva-Enquanto\bin\Debug\EstruturaRepetitiva-Enquanto.exe
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-Enquanto\EstruturaRepetitiva-Enquanto\bin\Debug\EstruturaRepetitiva-Enquanto.pdb
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-Enquanto\EstruturaRepetitiva-Enquanto\obj\Debug\EstruturaRepetitiva-Enquanto.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-Enquanto\EstruturaRepetitiva-Enquanto\obj\Debug\EstruturaRepetitiva-Enquanto.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-Enquanto\EstruturaRepetitiva-Enquanto\obj\Debug\EstruturaRepetitiva-Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-Enquanto\EstruturaRepetitiva-Enquanto\obj\Debug\EstruturaRepetitiva-Enquanto.exe
+C:\Users\nobru\Pictures\ProjetosC#\EstruturaRepetitiva-Enquanto\EstruturaRepetitiva-Enquanto\obj\Debug\EstruturaRepetitiva-Enquanto.pdb
