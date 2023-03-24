@@ -21,7 +21,7 @@ namespace Sobre_VetoresPt2
 				Console.Write("Entre com o nome do Produto: ");
 				string nome = Console.ReadLine();
 
-                Console.WriteLine("Entre com o preço do produto: ");
+                Console.Write("Entre com o preço do produto: ");
 				double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 				vect[i] = new Product { Nome = nome, Preco = preco };	

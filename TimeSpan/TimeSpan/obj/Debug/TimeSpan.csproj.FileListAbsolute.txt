@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe
+C:\Users\nobru\Pictures\ProjetosC#\TimeSpan\TimeSpan\bin\Debug\TimeSpan.pdb
+C:\Users\nobru\Pictures\ProjetosC#\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\TimeSpan\TimeSpan\obj\Debug\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\TimeSpan\TimeSpan\obj\Debug\TimeSpan.exe
+C:\Users\nobru\Pictures\ProjetosC#\TimeSpan\TimeSpan\obj\Debug\TimeSpan.pdb

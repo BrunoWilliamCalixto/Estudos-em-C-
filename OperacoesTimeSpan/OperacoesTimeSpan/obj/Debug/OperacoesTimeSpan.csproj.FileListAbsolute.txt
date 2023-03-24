@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\OperacoesTimeSpan.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\OperacoesTimeSpan.exe
+C:\Users\nobru\Pictures\ProjetosC#\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\OperacoesTimeSpan.pdb
+C:\Users\nobru\Pictures\ProjetosC#\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\OperacoesTimeSpan.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\OperacoesTimeSpan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\OperacoesTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\OperacoesTimeSpan.exe
+C:\Users\nobru\Pictures\ProjetosC#\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\OperacoesTimeSpan.pdb

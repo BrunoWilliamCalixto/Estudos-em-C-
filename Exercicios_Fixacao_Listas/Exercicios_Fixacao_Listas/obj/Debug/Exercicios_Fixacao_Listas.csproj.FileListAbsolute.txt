@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Listas\Exercicios_Fixacao_Listas\bin\Debug\Exercicios_Fixacao_Listas.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Listas\Exercicios_Fixacao_Listas\bin\Debug\Exercicios_Fixacao_Listas.exe
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Listas\Exercicios_Fixacao_Listas\bin\Debug\Exercicios_Fixacao_Listas.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Listas\Exercicios_Fixacao_Listas\obj\Debug\Exercicios_Fixacao_Listas.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Listas\Exercicios_Fixacao_Listas\obj\Debug\Exercicios_Fixacao_Listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Listas\Exercicios_Fixacao_Listas\obj\Debug\Exercicios_Fixacao_Listas.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Listas\Exercicios_Fixacao_Listas\obj\Debug\Exercicios_Fixacao_Listas.exe
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Listas\Exercicios_Fixacao_Listas\obj\Debug\Exercicios_Fixacao_Listas.pdb

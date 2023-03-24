@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Calculos_Date_Time\Calculos_Date_Time\bin\Debug\Calculos_Date_Time.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Calculos_Date_Time\Calculos_Date_Time\bin\Debug\Calculos_Date_Time.exe
+C:\Users\nobru\Pictures\ProjetosC#\Calculos_Date_Time\Calculos_Date_Time\bin\Debug\Calculos_Date_Time.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Calculos_Date_Time\Calculos_Date_Time\obj\Debug\Calculos_Date_Time.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Calculos_Date_Time\Calculos_Date_Time\obj\Debug\Calculos_Date_Time.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Calculos_Date_Time\Calculos_Date_Time\obj\Debug\Calculos_Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Calculos_Date_Time\Calculos_Date_Time\obj\Debug\Calculos_Date_Time.exe
+C:\Users\nobru\Pictures\ProjetosC#\Calculos_Date_Time\Calculos_Date_Time\obj\Debug\Calculos_Date_Time.pdb

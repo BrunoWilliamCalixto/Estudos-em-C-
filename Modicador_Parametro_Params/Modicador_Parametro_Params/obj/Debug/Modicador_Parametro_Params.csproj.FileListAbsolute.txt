@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Modicador_Parametro_Params\Modicador_Parametro_Params\bin\Debug\Modicador_Parametro_Params.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Modicador_Parametro_Params\Modicador_Parametro_Params\bin\Debug\Modicador_Parametro_Params.exe
+C:\Users\nobru\Pictures\ProjetosC#\Modicador_Parametro_Params\Modicador_Parametro_Params\bin\Debug\Modicador_Parametro_Params.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Modicador_Parametro_Params\Modicador_Parametro_Params\obj\Debug\Modicador_Parametro_Params.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Modicador_Parametro_Params\Modicador_Parametro_Params\obj\Debug\Modicador_Parametro_Params.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Modicador_Parametro_Params\Modicador_Parametro_Params\obj\Debug\Modicador_Parametro_Params.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Modicador_Parametro_Params\Modicador_Parametro_Params\obj\Debug\Modicador_Parametro_Params.exe
+C:\Users\nobru\Pictures\ProjetosC#\Modicador_Parametro_Params\Modicador_Parametro_Params\obj\Debug\Modicador_Parametro_Params.pdb

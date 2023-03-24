@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modicador_Parametro_Params", "Modicador_Parametro_Params\Modicador_Parametro_Params.csproj", "{319CF1F9-38BF-44A8-A512-2A1EE9E8CDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319CF1F9-38BF-44A8-A512-2A1EE9E8CDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319CF1F9-38BF-44A8-A512-2A1EE9E8CDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319CF1F9-38BF-44A8-A512-2A1EE9E8CDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319CF1F9-38BF-44A8-A512-2A1EE9E8CDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0D2078-06BD-46A2-8BE6-A185238BA5F9}
+	EndGlobalSection
+EndGlobal

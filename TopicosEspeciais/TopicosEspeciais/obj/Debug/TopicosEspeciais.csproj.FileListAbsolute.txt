@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\TopicosEspeciais\TopicosEspeciais\bin\Debug\TopicosEspeciais.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\TopicosEspeciais\TopicosEspeciais\bin\Debug\TopicosEspeciais.exe
+C:\Users\nobru\Pictures\ProjetosC#\TopicosEspeciais\TopicosEspeciais\bin\Debug\TopicosEspeciais.pdb
+C:\Users\nobru\Pictures\ProjetosC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\TopicosEspeciais.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\TopicosEspeciais.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\TopicosEspeciais.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\TopicosEspeciais.exe
+C:\Users\nobru\Pictures\ProjetosC#\TopicosEspeciais\TopicosEspeciais\obj\Debug\TopicosEspeciais.pdb

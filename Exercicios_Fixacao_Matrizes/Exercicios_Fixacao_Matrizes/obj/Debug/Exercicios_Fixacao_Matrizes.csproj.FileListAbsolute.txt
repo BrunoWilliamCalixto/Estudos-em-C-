@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Matrizes\Exercicios_Fixacao_Matrizes\bin\Debug\Exercicios_Fixacao_Matrizes.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Matrizes\Exercicios_Fixacao_Matrizes\bin\Debug\Exercicios_Fixacao_Matrizes.exe
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Matrizes\Exercicios_Fixacao_Matrizes\bin\Debug\Exercicios_Fixacao_Matrizes.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Matrizes\Exercicios_Fixacao_Matrizes\obj\Debug\Exercicios_Fixacao_Matrizes.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Matrizes\Exercicios_Fixacao_Matrizes\obj\Debug\Exercicios_Fixacao_Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Matrizes\Exercicios_Fixacao_Matrizes\obj\Debug\Exercicios_Fixacao_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Matrizes\Exercicios_Fixacao_Matrizes\obj\Debug\Exercicios_Fixacao_Matrizes.exe
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacao_Matrizes\Exercicios_Fixacao_Matrizes\obj\Debug\Exercicios_Fixacao_Matrizes.pdb

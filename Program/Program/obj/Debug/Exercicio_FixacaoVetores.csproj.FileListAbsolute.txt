@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Program\Program\bin\Debug\Program.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Program\Program\bin\Debug\Program.exe
+C:\Users\nobru\Pictures\ProjetosC#\Program\Program\bin\Debug\Program.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Program\Program\obj\Debug\Exercicio_FixacaoVetores.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Program\Program\obj\Debug\Exercicio_FixacaoVetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Program\Program\obj\Debug\Exercicio_FixacaoVetores.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Program\Program\obj\Debug\Program.exe
+C:\Users\nobru\Pictures\ProjetosC#\Program\Program\obj\Debug\Program.pdb

@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Matrizes\Sobre_Matrizes\bin\Debug\Sobre_Matrizes.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Matrizes\Sobre_Matrizes\bin\Debug\Sobre_Matrizes.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Matrizes\Sobre_Matrizes\bin\Debug\Sobre_Matrizes.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Matrizes\Sobre_Matrizes\obj\Debug\Sobre_Matrizes.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Matrizes\Sobre_Matrizes\obj\Debug\Sobre_Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Matrizes\Sobre_Matrizes\obj\Debug\Sobre_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Matrizes\Sobre_Matrizes\obj\Debug\Sobre_Matrizes.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Matrizes\Sobre_Matrizes\obj\Debug\Sobre_Matrizes.pdb

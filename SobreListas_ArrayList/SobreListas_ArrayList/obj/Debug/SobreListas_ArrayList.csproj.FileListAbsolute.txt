@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\SobreListas_ArrayList\SobreListas_ArrayList\bin\Debug\SobreListas_ArrayList.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\SobreListas_ArrayList\SobreListas_ArrayList\bin\Debug\SobreListas_ArrayList.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreListas_ArrayList\SobreListas_ArrayList\bin\Debug\SobreListas_ArrayList.pdb
+C:\Users\nobru\Pictures\ProjetosC#\SobreListas_ArrayList\SobreListas_ArrayList\obj\Debug\SobreListas_ArrayList.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreListas_ArrayList\SobreListas_ArrayList\obj\Debug\SobreListas_ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreListas_ArrayList\SobreListas_ArrayList\obj\Debug\SobreListas_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreListas_ArrayList\SobreListas_ArrayList\obj\Debug\SobreListas_ArrayList.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreListas_ArrayList\SobreListas_ArrayList\obj\Debug\SobreListas_ArrayList.pdb
