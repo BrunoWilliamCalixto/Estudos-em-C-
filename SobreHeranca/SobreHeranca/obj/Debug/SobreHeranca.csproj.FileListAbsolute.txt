@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\SobreHeranca\SobreHeranca\bin\Debug\SobreHeranca.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\SobreHeranca\SobreHeranca\bin\Debug\SobreHeranca.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreHeranca\SobreHeranca\bin\Debug\SobreHeranca.pdb
+C:\Users\nobru\Pictures\ProjetosC#\SobreHeranca\SobreHeranca\obj\Debug\SobreHeranca.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreHeranca\SobreHeranca\obj\Debug\SobreHeranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreHeranca\SobreHeranca\obj\Debug\SobreHeranca.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreHeranca\SobreHeranca\obj\Debug\SobreHeranca.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreHeranca\SobreHeranca\obj\Debug\SobreHeranca.pdb
