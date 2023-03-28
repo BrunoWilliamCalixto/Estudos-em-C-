@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Bloco_using\Bloco_using\bin\Debug\Bloco_using.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Bloco_using\Bloco_using\bin\Debug\Bloco_using.exe
+C:\Users\nobru\Pictures\ProjetosC#\Bloco_using\Bloco_using\bin\Debug\Bloco_using.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Bloco_using\Bloco_using\obj\Debug\Bloco_using.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Bloco_using\Bloco_using\obj\Debug\Bloco_using.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Bloco_using\Bloco_using\obj\Debug\Bloco_using.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Bloco_using\Bloco_using\obj\Debug\Bloco_using.exe
+C:\Users\nobru\Pictures\ProjetosC#\Bloco_using\Bloco_using\obj\Debug\Bloco_using.pdb

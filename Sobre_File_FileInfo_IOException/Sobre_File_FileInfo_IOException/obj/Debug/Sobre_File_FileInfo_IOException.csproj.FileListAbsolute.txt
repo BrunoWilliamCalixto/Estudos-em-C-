@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_File_FileInfo_IOException\Sobre_File_FileInfo_IOException\bin\Debug\Sobre_File_FileInfo_IOException.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_File_FileInfo_IOException\Sobre_File_FileInfo_IOException\bin\Debug\Sobre_File_FileInfo_IOException.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_File_FileInfo_IOException\Sobre_File_FileInfo_IOException\bin\Debug\Sobre_File_FileInfo_IOException.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_File_FileInfo_IOException\Sobre_File_FileInfo_IOException\obj\Debug\Sobre_File_FileInfo_IOException.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_File_FileInfo_IOException\Sobre_File_FileInfo_IOException\obj\Debug\Sobre_File_FileInfo_IOException.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_File_FileInfo_IOException\Sobre_File_FileInfo_IOException\obj\Debug\Sobre_File_FileInfo_IOException.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_File_FileInfo_IOException\Sobre_File_FileInfo_IOException\obj\Debug\Sobre_File_FileInfo_IOException.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_File_FileInfo_IOException\Sobre_File_FileInfo_IOException\obj\Debug\Sobre_File_FileInfo_IOException.pdb

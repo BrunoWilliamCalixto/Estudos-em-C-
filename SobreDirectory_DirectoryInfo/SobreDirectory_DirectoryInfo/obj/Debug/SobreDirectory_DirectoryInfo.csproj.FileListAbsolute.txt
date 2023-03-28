@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\SobreDirectory_DirectoryInfo\SobreDirectory_DirectoryInfo\bin\Debug\SobreDirectory_DirectoryInfo.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\SobreDirectory_DirectoryInfo\SobreDirectory_DirectoryInfo\bin\Debug\SobreDirectory_DirectoryInfo.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreDirectory_DirectoryInfo\SobreDirectory_DirectoryInfo\bin\Debug\SobreDirectory_DirectoryInfo.pdb
+C:\Users\nobru\Pictures\ProjetosC#\SobreDirectory_DirectoryInfo\SobreDirectory_DirectoryInfo\obj\Debug\SobreDirectory_DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreDirectory_DirectoryInfo\SobreDirectory_DirectoryInfo\obj\Debug\SobreDirectory_DirectoryInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreDirectory_DirectoryInfo\SobreDirectory_DirectoryInfo\obj\Debug\SobreDirectory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreDirectory_DirectoryInfo\SobreDirectory_DirectoryInfo\obj\Debug\SobreDirectory_DirectoryInfo.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreDirectory_DirectoryInfo\SobreDirectory_DirectoryInfo\obj\Debug\SobreDirectory_DirectoryInfo.pdb

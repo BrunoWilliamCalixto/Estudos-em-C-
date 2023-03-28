@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Try_Catch_SolucaoCorreta\Sobre_Try_Catch_SolucaoCorreta\bin\Debug\Sobre_Try_Catch_SolucaoCorreta.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Try_Catch_SolucaoCorreta\Sobre_Try_Catch_SolucaoCorreta\bin\Debug\Sobre_Try_Catch_SolucaoCorreta.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Try_Catch_SolucaoCorreta\Sobre_Try_Catch_SolucaoCorreta\bin\Debug\Sobre_Try_Catch_SolucaoCorreta.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Try_Catch_SolucaoCorreta\Sobre_Try_Catch_SolucaoCorreta\obj\Debug\Sobre_Try_Catch_SolucaoCorreta.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Try_Catch_SolucaoCorreta\Sobre_Try_Catch_SolucaoCorreta\obj\Debug\Sobre_Try_Catch_SolucaoCorreta.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Try_Catch_SolucaoCorreta\Sobre_Try_Catch_SolucaoCorreta\obj\Debug\Sobre_Try_Catch_SolucaoCorreta.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Try_Catch_SolucaoCorreta\Sobre_Try_Catch_SolucaoCorreta\obj\Debug\Sobre_Try_Catch_SolucaoCorreta.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_Try_Catch_SolucaoCorreta\Sobre_Try_Catch_SolucaoCorreta\obj\Debug\Sobre_Try_Catch_SolucaoCorreta.pdb

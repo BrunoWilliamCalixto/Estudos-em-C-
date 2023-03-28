@@ -17,7 +17,7 @@ namespace SobreHeranca.Entities
 
 		public void UpdateBalance()
 		{
-			Balance *= Balance * InterestRate;
+			Balance += Balance * InterestRate;
 		}
 	}
 }

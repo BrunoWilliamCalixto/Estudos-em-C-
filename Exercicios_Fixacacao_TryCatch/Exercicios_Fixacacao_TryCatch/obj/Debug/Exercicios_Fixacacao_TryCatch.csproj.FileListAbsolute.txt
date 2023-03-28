@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacacao_TryCatch\Exercicios_Fixacacao_TryCatch\bin\Debug\Exercicios_Fixacacao_TryCatch.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacacao_TryCatch\Exercicios_Fixacacao_TryCatch\bin\Debug\Exercicios_Fixacacao_TryCatch.exe
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacacao_TryCatch\Exercicios_Fixacacao_TryCatch\bin\Debug\Exercicios_Fixacacao_TryCatch.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacacao_TryCatch\Exercicios_Fixacacao_TryCatch\obj\Debug\Exercicios_Fixacacao_TryCatch.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacacao_TryCatch\Exercicios_Fixacacao_TryCatch\obj\Debug\Exercicios_Fixacacao_TryCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacacao_TryCatch\Exercicios_Fixacacao_TryCatch\obj\Debug\Exercicios_Fixacacao_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacacao_TryCatch\Exercicios_Fixacacao_TryCatch\obj\Debug\Exercicios_Fixacacao_TryCatch.exe
+C:\Users\nobru\Pictures\ProjetosC#\Exercicios_Fixacacao_TryCatch\Exercicios_Fixacacao_TryCatch\obj\Debug\Exercicios_Fixacacao_TryCatch.pdb

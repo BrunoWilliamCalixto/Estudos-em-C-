@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\SobrePath\SobrePath\bin\Debug\SobrePath.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\SobrePath\SobrePath\bin\Debug\SobrePath.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobrePath\SobrePath\bin\Debug\SobrePath.pdb
+C:\Users\nobru\Pictures\ProjetosC#\SobrePath\SobrePath\obj\Debug\SobrePath.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobrePath\SobrePath\obj\Debug\SobrePath.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobrePath\SobrePath\obj\Debug\SobrePath.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobrePath\SobrePath\obj\Debug\SobrePath.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobrePath\SobrePath\obj\Debug\SobrePath.pdb

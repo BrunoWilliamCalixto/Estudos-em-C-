@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_FileStream_StreamReader\Sobre_FileStream_StreamReader\bin\Debug\Sobre_FileStream_StreamReader.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_FileStream_StreamReader\Sobre_FileStream_StreamReader\bin\Debug\Sobre_FileStream_StreamReader.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_FileStream_StreamReader\Sobre_FileStream_StreamReader\bin\Debug\Sobre_FileStream_StreamReader.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_FileStream_StreamReader\Sobre_FileStream_StreamReader\obj\Debug\Sobre_FileStream_StreamReader.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_FileStream_StreamReader\Sobre_FileStream_StreamReader\obj\Debug\Sobre_FileStream_StreamReader.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_FileStream_StreamReader\Sobre_FileStream_StreamReader\obj\Debug\Sobre_FileStream_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_FileStream_StreamReader\Sobre_FileStream_StreamReader\obj\Debug\Sobre_FileStream_StreamReader.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_FileStream_StreamReader\Sobre_FileStream_StreamReader\obj\Debug\Sobre_FileStream_StreamReader.pdb

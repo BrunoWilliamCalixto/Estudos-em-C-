@@ -1,9 +1,9 @@
 ﻿namespace SobreHeranca.Entities
 {
-	internal class Account
+	abstract class Account
 	{
-		public int Number { get; protected set; }
-		public string Holder { get; protected set; }
+		public int Number { get; private set; }
+		public string Holder { get; private set; }
 		public double Balance { get; protected set; }
 
 		public Account()
@@ -17,9 +17,9 @@
 			Balance = balance;
 		}
 
-		public void Withdraw(double amount)
+		public virtual void Withdraw(double amount)
 		{
-			Balance -= amount;
+			Balance -= amount + 5.0;
 		}
 
 		public void Deposit(double amount)

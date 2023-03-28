@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\SobreClasses_Metodos_Abstratos\SobreClasses_Metodos_Abstratos\bin\Debug\SobreClasses_Metodos_Abstratos.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\SobreClasses_Metodos_Abstratos\SobreClasses_Metodos_Abstratos\bin\Debug\SobreClasses_Metodos_Abstratos.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreClasses_Metodos_Abstratos\SobreClasses_Metodos_Abstratos\bin\Debug\SobreClasses_Metodos_Abstratos.pdb
+C:\Users\nobru\Pictures\ProjetosC#\SobreClasses_Metodos_Abstratos\SobreClasses_Metodos_Abstratos\obj\Debug\SobreClasses_Metodos_Abstratos.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreClasses_Metodos_Abstratos\SobreClasses_Metodos_Abstratos\obj\Debug\SobreClasses_Metodos_Abstratos.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreClasses_Metodos_Abstratos\SobreClasses_Metodos_Abstratos\obj\Debug\SobreClasses_Metodos_Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\SobreClasses_Metodos_Abstratos\SobreClasses_Metodos_Abstratos\obj\Debug\SobreClasses_Metodos_Abstratos.exe
+C:\Users\nobru\Pictures\ProjetosC#\SobreClasses_Metodos_Abstratos\SobreClasses_Metodos_Abstratos\obj\Debug\SobreClasses_Metodos_Abstratos.pdb

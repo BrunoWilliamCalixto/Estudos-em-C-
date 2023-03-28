@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_TryCatch\Sobre_TryCatch\bin\Debug\Sobre_TryCatch.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_TryCatch\Sobre_TryCatch\bin\Debug\Sobre_TryCatch.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_TryCatch\Sobre_TryCatch\bin\Debug\Sobre_TryCatch.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_TryCatch\Sobre_TryCatch\obj\Debug\Sobre_TryCatch.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_TryCatch\Sobre_TryCatch\obj\Debug\Sobre_TryCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_TryCatch\Sobre_TryCatch\obj\Debug\Sobre_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_TryCatch\Sobre_TryCatch\obj\Debug\Sobre_TryCatch.exe
+C:\Users\nobru\Pictures\ProjetosC#\Sobre_TryCatch\Sobre_TryCatch\obj\Debug\Sobre_TryCatch.pdb

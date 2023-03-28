@@ -11,33 +11,38 @@ namespace SobreHeranca
 	{
 		static void Main(string[] args)
 		{
-			Account acc = new Account(1001, "Bruno William", 500.00);
-			BusinessAccount bAcc = new BusinessAccount(8002, "Eagle MS", 0.0, 500.0);
+			List<Account> list = new List<Account>();
 
-			//UPCASTING
-			Account acc1 = bAcc;
-			Account acc2 = new BusinessAccount(1003, "Bob Marley", 0.0, 1000.0); // Podemos dar um new na subclasse e atribuir novos valores a ela
-			Account acc3 = new SavingsAccount(1004, "Ana", 0.0, 100.00);
+			list.Add(new SavingsAccount(1001, "Alex", 500.00, 0.01));
+			list.Add(new BusinessAccount(1002, "Maria", 500.00, 400.00));
+			list.Add(new SavingsAccount(1003, "Bob", 500.00, 0.01));
+			list.Add(new BusinessAccount(1004, "Anna", 500.00, 500.00));
 
-			// DOWNCASTING
-			 BusinessAccount acc4 = (BusinessAccount) acc2;
-			acc4.Loan(100.0);
+			double sum = 0.0;
 
-			//BusinessAccount acc5 = (BusinessAccount) acc3; -> Uma variável que dá erro por pertencer a duas classe distintas
-
-			if(acc3 is BusinessAccount) //is é um tipo que diz: "Se acc3 for uma instancia de BussnessAccount", realizamos o downcasting, senão ele nega a condição
+			foreach (Account account in list)
 			{
-				//BusinessAccount acc5 = (BusinessAccount) acc3;
-				BusinessAccount acc5 = acc3 as BusinessAccount; //as [e tratatado tipo "como", ou seja, a sua instancia está se referindo acc3 como BusinessAccount (sintaxe alternativa)
-				acc5.Loan(200.00);
-                Console.WriteLine("Loan!");
-            }
-			if(acc3 is SavingsAccount)
+				sum += account.Balance;
+			}
+			
+			Console.WriteLine(sum);
+
+
+			foreach(Account account in list)
 			{
-				SavingsAccount acc5 = (SavingsAccount) acc3;
-				acc5.UpdateBalance();
-                Console.WriteLine("Update!");
+				account.Withdraw(10.0);
+			}
+
+			foreach (Account account in list)
+			{
+                Console.WriteLine(account.Balance);
             }
-		}
+
+			SavingsAccount sA = new SavingsAccount(1005, "Bruno", 1000, 0.10);
+			sA.UpdateBalance();
+
+			Console.WriteLine(sA.Balance); ;
+
+        }
 	}
 }
