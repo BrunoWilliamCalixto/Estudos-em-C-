@@ -26,6 +26,6 @@ namespace Bloco_using // Declaração do namespace "Bloco_using"
 			{
 				Console.WriteLine("Error: " + e.Message); // A mensagem de erro é exibida no console usando o método "WriteLine" da classe "Console".
 			}
-		}
+		} }
 	}
 }

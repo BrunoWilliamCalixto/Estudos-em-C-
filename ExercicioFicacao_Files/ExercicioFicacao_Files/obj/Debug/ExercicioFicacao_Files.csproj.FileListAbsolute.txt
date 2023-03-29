@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\ExercicioFicacao_Files\ExercicioFicacao_Files\bin\Debug\ExercicioFicacao_Files.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\ExercicioFicacao_Files\ExercicioFicacao_Files\bin\Debug\ExercicioFicacao_Files.exe
+C:\Users\nobru\Pictures\ProjetosC#\ExercicioFicacao_Files\ExercicioFicacao_Files\bin\Debug\ExercicioFicacao_Files.pdb
+C:\Users\nobru\Pictures\ProjetosC#\ExercicioFicacao_Files\ExercicioFicacao_Files\obj\Debug\ExercicioFicacao_Files.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\ExercicioFicacao_Files\ExercicioFicacao_Files\obj\Debug\ExercicioFicacao_Files.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\ExercicioFicacao_Files\ExercicioFicacao_Files\obj\Debug\ExercicioFicacao_Files.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\ExercicioFicacao_Files\ExercicioFicacao_Files\obj\Debug\ExercicioFicacao_Files.exe
+C:\Users\nobru\Pictures\ProjetosC#\ExercicioFicacao_Files\ExercicioFicacao_Files\obj\Debug\ExercicioFicacao_Files.pdb

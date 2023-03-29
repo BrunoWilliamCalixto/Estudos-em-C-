@@ -17,7 +17,7 @@ namespace Sobre_File_FileInfo_IOException
 				FileInfo fileInfo = new FileInfo(sourcePath);
 
 				// Copia o arquivo de entrada para o arquivo de saída
-				fileInfo.CopyTo(targetPath, true);
+				fileInfo.CopyTo(targetPath);
 
 				// Lê todas as linhas do arquivo de entrada e armazena em um vetor
 				string[] lines = File.ReadAllLines(sourcePath);

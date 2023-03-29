@@ -1,0 +1,8 @@
+C:\Users\nobru\Pictures\ProjetosC#\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\nobru\Pictures\ProjetosC#\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\nobru\Pictures\ProjetosC#\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\nobru\Pictures\ProjetosC#\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\nobru\Pictures\ProjetosC#\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\nobru\Pictures\ProjetosC#\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\nobru\Pictures\ProjetosC#\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\nobru\Pictures\ProjetosC#\Teste\Teste\obj\Debug\Teste.pdb

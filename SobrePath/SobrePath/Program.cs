@@ -18,7 +18,6 @@ namespace SobrePath
             Console.WriteLine("GetFileName: " + Path.GetFileName(path));
             Console.WriteLine("GetFileNameWithoutExtension: " + Path.GetFileNameWithoutExtension(path));
             Console.WriteLine("GetFullPath: " + Path.GetFullPath(path));
-            Console.WriteLine("GetFullPath: " + Path.GetFullPath(path));
             Console.WriteLine("GetTempPath: " + Path.GetTempPath());
 
         }
